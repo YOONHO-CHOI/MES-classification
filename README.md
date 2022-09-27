@@ -1,6 +1,6 @@
 # MES-classification
 ## Introduction
-Ji Eun Kim1*, Yoon Ho Choi2* et, al. "Deep Learning Model for Distinguishing MES 0 and MES 1 in Patients with Ulcerative Colitis with Endoscopic Remission"
+"Deep Learning Model for Distinguishing MES 0 and MES 1 in Patients with Ulcerative Colitis with Endoscopic Remission", Ji Eun Kim, Yoon Ho Choi et,al.
 
 ## Model
 ### 1) Preprocessing
