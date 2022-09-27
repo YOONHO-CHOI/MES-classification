@@ -182,7 +182,7 @@ root       = os.getcwd()
 data_root  = os.path.join(root, 'Data')
 save_root  = os.path.join(root, 'Result')
 weight_dir = os.path.join(root, 'Weight')
-data_dir   = os.path.join(data_root, 'Hyperkvarsir_0and1_img(Unified)')
+data_dir   = os.path.join(data_root, 'img')
 makedirs(save_root), makedirs(weight_dir)
 
 col_names = ['Model', 'acc', 'F1-Score 0', 'F1-Score 1', 'precision 0', 'precision 1', 'recall 0', ' recall 1', 'AUROC', 'AUPRC']
@@ -190,7 +190,7 @@ writer    = pd.ExcelWriter(os.path.join(save_root, 'Results.xlsx'), engine='xlsx
 all_results  =[]
 mean_results =[]
 
-lbl_df     = pd.read_csv(os.path.join(data_root, 'Hyperkvarsir_0and1_lbl.csv'))
+lbl_df     = pd.read_csv(os.path.join(data_root, 'Hyperkvarsir_lbl.csv'))
 target = lbl_df.loc[:,'label']
 
 
