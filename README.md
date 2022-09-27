@@ -12,6 +12,7 @@
 
 
 ![Hyperkvasirtest_confusion_matrix_MES0and1](https://user-images.githubusercontent.com/54790722/192452480-08e5565b-f968-48a7-9dee-ed44a39d2684.svg)
+![Hyperkvasirtest_confusion_matrix_MES0andmorethan1](https://user-images.githubusercontent.com/54790722/192453022-3430b73d-f2c6-446c-8cfd-240eef703a6e.svg)
 ![Hyperkvarsir_ROC-AUC](https://user-images.githubusercontent.com/54790722/192452458-1e9f2b1a-3b28-4040-b274-0ec41478aff2.svg)
 ![Hyperkvarsir_PR-AUC](https://user-images.githubusercontent.com/54790722/192452442-8ee13cae-3773-45ac-8258-969996aaa8e5.svg)
 
