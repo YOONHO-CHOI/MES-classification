@@ -1,7 +1,10 @@
 # MES-classification
 Recently, endoscopic remission has been defined as Mayo endoscopic sub-score (MES) 0. 
+
 Therefore, the patients with MES 1 are needed to step up for achieving MES 0 of the endoscopic score. 
+
 In discriminating MES 0 and 1, inter-observer variation is very severe among the endoscopists. 
+
 This study aimed to narrow the gap in distinguishing between MES 0 and MES1 by deep learning model. 
 
 ## Model
