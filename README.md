@@ -7,6 +7,14 @@ In discriminating MES 0 and 1, inter-observer variation is very severe among the
 
 This study aimed to narrow the gap in distinguishing between MES 0 and MES1 by deep learning model. 
 
+## Materials
+### 1) Validation & Internal test data
+#### Baseline characteristics
+<p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192462032-1bd001a4-e1ed-4eea-9f5a-b0b229f59153.png"width="80%" height="80%"/></p>
+
+### 2) External test data (Hyperkvasir)
+
+
 ## Model
 ### 1) Preprocessing
 <p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192457379-7e6ea5b6-8d28-4766-9d27-2ccbeae2d1a1.png" width="80%" height="80%"/></p>
