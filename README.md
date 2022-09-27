@@ -12,7 +12,11 @@ This study aimed to narrow the gap in distinguishing between MES 0 and MES1 by d
 #### Baseline characteristics
 <p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192462032-1bd001a4-e1ed-4eea-9f5a-b0b229f59153.png"width="80%" height="80%"/></p>
 
+#### Data configuration
+<p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192465867-80e95404-b21f-494c-81e4-2fb48ad6203b.png"width="80%" height="80%"/></p>
+
 ### 2) External test data (Hyperkvasir)
+<p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192466115-8ed4ef52-d6df-46cd-bd76-714597067d86.png"/></p>
 
 
 ## Model
@@ -25,6 +29,8 @@ This study aimed to narrow the gap in distinguishing between MES 0 and MES1 by d
 
 ## Results
 ### 1) 12-fold cross validation
+<p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192466575-e8242fca-9f4c-417d-8705-d8bd87c53e7e.png"/></p>
+
 <p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192452645-b18d4d7b-79df-44cf-9a2d-5ed5ee16af2f.svg"><img src ="https://user-images.githubusercontent.com/54790722/192452613-feb187c9-9c01-44f1-a052-bf2e528a2334.svg">
 <p align="Center"><img src ="https://user-images.githubusercontent.com/54790722/192457510-6b2bea4c-a5ef-4534-9a2f-a2c642e46ac8.jpg"></p>
 
